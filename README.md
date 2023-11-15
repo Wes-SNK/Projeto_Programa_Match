@@ -8,9 +8,10 @@ Este código implementa o Projeto Catálogo de Livros com Verificação de Dispo
 
 O código permite o cadastro de novos livros, a exibição dos livros cadastrados, e a consulta da disponibilidade de livros por título ou autor da obra.
 
+[Verifique o código.](/Catalogo.py)
+
 [Verifique o vídeo para ver o código em funcionamento.](/Projeto_Catalogo_De_Livros.mp4)
 
-[Verifique o código.](/Catalogo.py)
 
 ## Funcionalidades:
 
